@@ -1,0 +1,15 @@
+D:\New folder\IdentityServer.Api\IdentityServer.Application\bin\Debug\net6.0\IdentityServer.Application.deps.json
+D:\New folder\IdentityServer.Api\IdentityServer.Application\bin\Debug\net6.0\IdentityServer.Application.dll
+D:\New folder\IdentityServer.Api\IdentityServer.Application\bin\Debug\net6.0\IdentityServer.Application.pdb
+D:\New folder\IdentityServer.Api\IdentityServer.Application\bin\Debug\net6.0\IdentityServer.Domain.dll
+D:\New folder\IdentityServer.Api\IdentityServer.Application\bin\Debug\net6.0\IdentityServer.Domain.pdb
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\IdentityServer.Application.csproj.AssemblyReference.cache
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\IdentityServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\IdentityServer.Application.AssemblyInfoInputs.cache
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\IdentityServer.Application.AssemblyInfo.cs
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\IdentityServer.Application.csproj.CoreCompileInputs.cache
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\IdentityServer.Application.csproj.CopyComplete
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\IdentityServer.Application.dll
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\refint\IdentityServer.Application.dll
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\IdentityServer.Application.pdb
+D:\New folder\IdentityServer.Api\IdentityServer.Application\obj\Debug\net6.0\ref\IdentityServer.Application.dll
