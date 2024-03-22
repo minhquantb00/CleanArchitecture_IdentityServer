@@ -35,7 +35,6 @@ namespace IdentityServer.Api.Controllers
             {
                 await _user.AssignRoleToUserAsync(registerUser.Roles, tokenResponse.Response.User);
 
-                // var confirmationLink = $"http://localhost:4200/confirm-account?Token={tokenResponse.Response.Token}&email={registerUser.Email}";
                 var confirmationLink = Url.Action(nameof(ConfirmEmail), "Authentication", new { tokenResponse.Response.Token, email = registerUser.Email }, Request.Scheme);
 
                 var message = new Message(new string[] { registerUser.Email! }, "Link xác nhận email", confirmationLink!);
